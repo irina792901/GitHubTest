@@ -66,3 +66,5 @@ ___
 |---|---|
 |данные |данные|
 
+Создано на основе [Шпаргалки по Маркдауну](https://github.com/sandino/Markdown-Cheatsheet) 
+
